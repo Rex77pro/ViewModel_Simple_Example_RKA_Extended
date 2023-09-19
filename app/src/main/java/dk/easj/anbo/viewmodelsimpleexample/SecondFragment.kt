@@ -48,6 +48,10 @@ class SecondFragment : Fragment() {
             //findNavController().navigate(R.id.action_SecondFragment_to_FirstFragment)
             findNavController().popBackStack()
         }
+
+        binding.buttonGoThird.setOnClickListener {
+            findNavController().navigate(R.id.action_SecondFragment_to_thirdFragment)
+        }
     }
 
     override fun onDestroyView() {
