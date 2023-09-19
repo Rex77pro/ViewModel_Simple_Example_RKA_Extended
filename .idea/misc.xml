@@ -1,0 +1,16 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/andersb/kotlin2/ViewModelSimpleExample/app/src/main/res/layout/fragment_first.xml" value="0.15353260869565216" />
+        <entry key="..\:/andersb/kotlin2/ViewModelSimpleExample/app/src/main/res/layout/fragment_second.xml" value="0.20572916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
